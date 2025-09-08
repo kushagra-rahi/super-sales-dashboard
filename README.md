@@ -1,3 +1,5 @@
+<h1 align="center">Super Store USA – Power BI Dashboard</h1>
+
 📊 Super Store USA – Power BI Dashboard
 
 This repository contains an interactive Power BI Template (.pbit) for analyzing sales, profit, and customer trends of a retail superstore dataset.
