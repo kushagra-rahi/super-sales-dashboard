@@ -3,7 +3,7 @@
 
 This repository contains an interactive Power BI Template (.pbit) for analyzing sales, profit, and customer trends of a retail superstore dataset.
 
-🔑 Key Features
+<h3 align="left"> 🔑 Key Features </h3>
 
 Sales Performance Tracking – View revenue, profit, and quantity trends over time
 
@@ -15,7 +15,7 @@ Customer Segmentation – Identify high-value customers and buying patterns
 
 Dynamic Filtering – Interactive slicers for flexible reporting
 
-🚀 How to Use
+<h3 align="left"> 🚀 How to Use </h3>
 
 Download the .pbit file from this repo
 
@@ -25,7 +25,7 @@ Connect to the dataset (CSV/Excel/Database as provided)
 
 Explore insights with interactive visualizations
 
-📂 File Included
+<h3 align="left"> 📂 File Included </h3>
 
 Super Store USA.pbit – Power BI Template file
 
