@@ -28,4 +28,4 @@ Explore insights with interactive visualizations
 
 Super Store USA.pbit – Power BI Template file
 
-![Dashboard Preview]([https://your-image-link.png](https://github.com/kushagra-rahi/super-sales-dashboard/blob/main/Screenshot%202025-09-08%20015942.png))
+![Dashboard Preview](https://github.com/kushagra-rahi/super-sales-dashboard/blob/main/Screenshot%202025-09-08%20015942.png)
